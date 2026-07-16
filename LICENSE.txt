@@ -1,0 +1,11 @@
+Copyright (c) [2026] [NEXUS CREATIO - Carlos Mauricio Quintero]
+
+Todos los derechos reservados.
+
+Prohibida la reproducción, distribución, modificación o venta de este código fuente 
+sin el permiso expreso y por escrito del titular de los derechos de autor.
+
+La versión web de esta aplicación está destinada únicamente a fines de demostración 
+y evaluación. Su publicación, clonación o redistribución en plataformas de terceros 
+(incluyendo, de forma enunciativa pero no limitativa, Google Play Store) está 
+estrictamente prohibida a menos que se otorgue una licencia comercial oficial.
